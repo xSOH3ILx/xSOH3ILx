@@ -28,6 +28,16 @@
 
 ---
 
+### 🔒 Commercial & Enterprise Work (NDA)
+
+> [!NOTE]
+> **Client Work & Non-Disclosure Agreements (NDAs):**
+> A substantial share of my day-to-day production code, system architectures, and enterprise engineering resides in **private repositories** for clients and commercial products under strict NDAs.
+> 
+> While those proprietary codebases remain strictly confidential, the architectural discipline, clean-code standards, and problem-solving methodology demonstrated across my public repositories reflect the identical high standards applied to all commercial engagements.
+
+---
+
 ### 🚀 Featured Open Source Projects
 
 <table>
