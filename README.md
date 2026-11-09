@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="assets/header-banner.svg" alt="Soheil Vatandoust - Software Architect & Product Engineer" width="100%" />
+<img src="https://raw.githubusercontent.com/xSOH3ILx/xSOH3ILx/main/assets/header-banner.svg" alt="Soheil Vatandoust - Software Architect & Product Engineer" width="100%" />
 
 <br /><br />
 
-### «مسئله رو می‌شناسم، راه‌حلش رو می‌سازم!» • "I understand the problem. I build the solution."
+<h3>
+  <span dir="rtl" style="display:inline-block;">«مسئله رو می‌شناسم، راه‌حلش رو می‌سازم!»</span>
+  <br />
+  <span dir="ltr" style="display:inline-block;">&ldquo;I understand the problem. I build the solution.&rdquo;</span>
+</h3>
 
 <p align="center">
   <a href="https://soheil-vatandoust.ir"><img src="https://img.shields.io/badge/Portfolio-soheil--vatandoust.ir-0969da?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
