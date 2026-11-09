@@ -7,12 +7,6 @@
 ### «مسئله رو می‌شناسم، راه‌حلش رو می‌سازم!» • "I understand the problem. I build the solution."
 
 <p align="center">
-  <strong>Software Architect &amp; Product Builder</strong> specialized in native Android engineering, high-throughput systems (Go/Rust/Python), and resilient web &amp; edge architectures.
-  <br />
-  <span dir="rtl" style="display:inline-block;"><strong>معمار نرم‌افزار و سازنده محصول؛</strong> متمرکز بر مهندسی نیتیو اندروید، سیستم‌های مقیاس‌پذیر بک‌اند (Go / Rust / Python) و معماری‌های مدرن وب و زیرساخت ابری.</span>
-</p>
-
-<p align="center">
   <a href="https://soheil-vatandoust.ir"><img src="https://img.shields.io/badge/Portfolio-soheil--vatandoust.ir-0969da?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://t.me/Soheil_VatanDoust"><img src="https://img.shields.io/badge/Telegram-@Soheil__VatanDoust-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://wa.me/message/7OACOSEAUQLWL1"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -23,174 +17,81 @@
 
 ---
 
-### 💡 About Me • درباره من
+### How Can I Help? • چه کمکی ازم برمیاد؟
 
-#### 🇬🇧 English
-- 🔭 **Current Focus:** Crafting modern Android solutions, high-performance systems with Go & Rust, resilient web platforms, and intelligent automation.
-- 🎯 **Engineering Mindset:** Problem-first thinking, clean architecture, pragmatic design patterns, and high-performance execution across open-source and enterprise products.
-- 💬 **Ask me about:** Android (Kotlin & Jetpack Compose), Next.js / TypeScript, Enterprise Backend (FastAPI, Go, Rust), Relational Databases (PostgreSQL, Prisma), and Linux automation.
-- ⚡ **Philosophy:** The best software solves complex problems with the simplest, most elegant solution.
+> **Have a fresh idea or something you'd like to improve? Let's talk about it.**  
+> <span dir="rtl" style="display:inline-block;">یه ایدهٔ تازه داری یا می‌خوای چیزی که الان داری بهتر کار کنه؟ درباره‌اش حرف بزنیم.</span>
+
+<br />
+
+#### 01. Custom Business & Enterprise Systems Development
+Whether you need tailored operational tools (custom CRMs, order tracking, inventory control, and team workflows) or enterprise-grade process automation (executive BI dashboards, real-time reporting, and replacing scattered spreadsheets)—I architect and build custom software around your organization’s exact logic to eliminate bottlenecks and centralize your entire operation.
 
 <div dir="rtl" align="right">
 
-#### 🇮🇷 درباره من
-- 🔭 **تمرکز فعلی:** توسعه راهکارهای مدرن اندروید، سیستم‌های سریع با Go و Rust، معماری وب مقیاس‌پذیر و ربات‌ها و اتوماسیون هوشمند.
-- 🎯 **دیدگاه مهندسی:** اولویت حل مسئله، معماری تمیز (Clean Architecture)، الگوهای طراحی کاربردی و مهندسی دقیق در پروژه‌های تجاری و متن‌باز.
-- 💬 **گفت‌وگو و همکاری:** اندروید (کاتلین و کامپوز)، فول‌استک (Next.js و تایپ‌اسکریپت)، بک‌اند پیشرفته (FastAPI, Go, Rust)، دیتابیس‌ها (PostgreSQL و Prisma) و سیستم‌های لینوکسی.
-- ⚡ **باور من:** بهترین نرم‌افزار، نرم‌افزاریه که مسئله‌ای پیچیده رو با ساده‌ترین و زیباترین راه‌حل ممکن برطرف کنه.
+#### ۰۱. طراحی و توسعه سامانه‌های اختصاصی برای سازمان‌ها و کسب‌وکارها
+چه برای مدیریت یکپارچه فروش و عملیات (مثل CRM اختصاصی، پیگیری سفارش‌ها، کنترل موجودی و کارتابل تیمی) و چه برای تصمیم‌گیری و اتوماسیون فرآیندهای سازمانی (مثل داشبوردهای تحلیلی و مدیریتی، گزارش‌گیری لحظه‌ای و حذف اکسل‌های پراکنده و کارهای دستی)؛ سامانه‌ای رو دقیقاً متناسب با منطق کاری مجموعه‌ات معماری و پیاده‌سازی می‌کنم تا گلوگاه‌ها حذف بشن و همه‌چیز در یک بستر متمرکز، ساده و خودکار پیش بره.
 
 </div>
 
 ---
 
-### 🔒 Commercial & Enterprise Work (NDA) • پروژه‌های تجاری و تعهدنامه محرمانگی
+#### 02. Custom Native Apps & Automated Analytical Tools
+Whether you need high-speed, 24/7 processing tools (automated trading bots, market scanners, analytical engines, and desktop software) or standalone products beyond web browser limits (native mobile apps, offline-first systems, and hardware-integrated tools)—I architect and build dedicated applications engineered for maximum speed, stability, and security.
 
-> [!NOTE]
-> **🇬🇧 Client Work & Non-Disclosure Agreements (NDAs):**
+<div dir="rtl" align="right">
+
+#### ۰۲. طراحی و توسعه اپلیکیشن‌های اختصاصی و ابزارهای تحلیلی و خودکار
+چه برای ابزارهای پردازشی و مالی که نیاز به اجرای ۲۴ ساعته و سرعت لحظه‌ای دارن (مثل ربات‌های ترید خودکار، اسکنرها و دستیارهای تحلیلی بازار و نرم‌افزارهای دسکتاپ) و چه برای محصولاتی که فراتر از وب‌اپ، حتماً باید به شکل یه اپلیکیشن مستقل نصب بشن (مثل اپ‌های اختصاصی موبایل، سیستم‌های آفلاین‌محور و ابزارهای نیازمند دسترسی مستقیم به سخت‌افزار)؛ نرم‌افزارت رو با بالاترین پایداری، امنیت و سرعت معماری و پیاده‌سازی می‌کنم.
+
+</div>
+
+---
+
+#### 03. Custom Website & Web Application Development
+Whether you need a high-converting digital presence (corporate and personal websites, e-commerce stores, and SEO-ready landing pages) or an interactive web platform (booking systems, service marketplaces, customer portals, and PWAs)—I design and build fast, responsive, and modern web applications that deliver a seamless experience across all devices.
+
+<div dir="rtl" align="right">
+
+#### ۰۳. طراحی و توسعه وب‌سایت و وب‌اپلیکیشن اختصاصی
+چه برای ساخت ویترین دیجیتال و جذب مشتری (مثل وب‌سایت‌های شرکتی و شخصی، فروشگاه‌های آنلاین و لندینگ‌پیج‌های بهینه‌شده برای گوگل) و چه برای راه‌اندازی پلتفرم‌های تعاملی تحت‌وب (مثل سیستم‌های نوبت‌دهی و رزرواسیون، پلتفرم‌های خدماتی، پورتال مشتریان و وب‌اپلیکیشن‌ها (PWA) )؛ ایده‌ات رو با معماری مدرن، سرعت بالا و رابط کاربری روان به یه محصول تحت‌وب کاربردی تبدیل می‌کنم که روی هر دستگاهی بی‌نقص کار کنه.
+
+</div>
+
+---
+
+#### 04. Interactive Telegram Bot & Mini-App Development
+Whether you need customer-facing tools (onboarding, booking, in-app sales, and loyalty programs) or internal automation (team reporting, CRM sync, financial workflows, and real-time alerts)—I build smart bots and interactive Mini-Apps that run natively inside Telegram, streamlining your day-to-day operations.
+
+<div dir="rtl" align="right">
+
+#### ۰۴. طراحی و توسعه ربات و مینی‌اپ تعاملی تلگرام
+چه برای ارتباط با مشتری (مثل ثبت‌نام، نوبت‌دهی، فروش آنلاین و باشگاه مشتریان) و چه برای اتوماسیون درون‌سازمانی (مثل گزارش‌گیری از تیم، اتصال به CRM، امور مالی و اعلان‌های مدیریتی)؛ هر قابلیتی که کسب‌وکارت نیاز داره رو در قالب یه ربات هوشمند یا مینی‌اپ تعاملی، مستقیم میارم داخل تلگرام تا کارهات ساده‌تر و بهینه‌تر پیش بره.
+
+</div>
+
+---
+
+### Commercial & Enterprise Work (NDA) • پروژه‌های تجاری و تعهدنامه محرمانگی
+
+> **Client Work & Non-Disclosure Agreements (NDAs):**  
 > A substantial share of my day-to-day production code, system architectures, and enterprise engineering resides in **private repositories** for clients and commercial products under strict NDAs. While those proprietary codebases remain strictly confidential, the architectural discipline, clean-code standards, and problem-solving methodology demonstrated across my public repositories reflect the identical high standards applied to all commercial engagements.
-> 
-> <div dir="rtl" align="right">
-> 
-> **🇮🇷 پروژه‌های تجاری و تعهدنامه محرمانگی (NDA):**
+
+<div dir="rtl" align="right">
+
+> **پروژه‌های تجاری و تعهدنامه محرمانگی (NDA):**  
 > بخش عمده‌ای از کدنویسی پروداکشن، معماری سیستم‌ها و پروژه‌های تجاری روزمره من در **مخازن خصوصی** برای کارفرمایان و محصولات تجاری تحت قراردادهای رسمی عدم افشا (NDA) قرار دارد. با حفظ کامل محرمانگی این سورس‌کدها، انضباط معماری، استاندارد کدهای تمیز و شیوه حل مسئله‌ای که در مخازن عمومی مشاهده می‌کنید، بازتاب‌دهنده همان استانداردهای بالا در تمامی پروژه‌های تجاری من است.
-> 
-> </div>
+
+</div>
 
 ---
 
-### ⚡ Architectural Case Studies & Engineering Highlights • چالش‌ها و دستاوردهای معماری
-
-<details>
-  <summary><b>📱 1. Zero-Drift Solar Engine vs. Android OEM Doze Mode (SOH3IL)</b></summary>
-  <br />
-  <p><strong>🇬🇧 The Challenge:</strong> Most Android calendars drift reminders by 1–2 days in Persian leap/31-day months, while aggressive vendor battery managers (Xiaomi, Samsung) kill background alarms.</p>
-  <p><strong>The Architecture:</strong></p>
-  <ul>
-    <li>Rules stored natively in Solar Jalali format (<code>RecurrenceRule</code>) in Room SQLite.</li>
-    <li><code>AlarmManager.setAlarmClock()</code> triggers CPU wake-up exactly on target second with zero battery penalty during idle hours.</li>
-    <li>Deterministic <code>SNAP_TO_LAST_DAY</code> policy for Esfand and 30-day months.</li>
-  </ul>
-  
-  <div dir="rtl" align="right">
-    <p><strong>🇮🇷 چالش فنی:</strong> جابجایی ۱ الی ۲ روزه یادآورهای دوره‌ای خورشیدی در ماه‌های ۳۱ و ۲۹ روزه، همراه با بسته شدن پروسه‌های پس‌زمینه توسط مدیریت باتری گوشی‌ها.</p>
-    <p><strong>راه‌حل معماری:</strong></p>
-    <ul>
-      <li>ذخیره بومی الگوهای تکرار با تقویم جلالی در Room دیتابیس بدون تبدیل مبنا به میلادی.</li>
-      <li>استفاده از <code>AlarmManager.setAlarmClock()</code> برای بیداری دقیق پردازنده با مصرف باتری صفر در زمان خواب دستگاه.</li>
-      <li>سیاست انطباق هوشمند <code>SNAP_TO_LAST_DAY</code> برای انطباق خودکار یادآورهای روز ۳۱ در ماه‌های ۳۰ روزه و اسفند.</li>
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary><b>🤖 2. Serverless Telegram Rich Messaging at Global Edge Latency (TeleRich Studio)</b></summary>
-  <br />
-  <p><strong>🇬🇧 The Challenge:</strong> Parsing complex Markdown/HTML ASTs, rendering live previews, and managing Telegram Bot API 10.3 entities without running an expensive dedicated server.</p>
-  <p><strong>The Architecture:</strong></p>
-  <ul>
-    <li>Compiled full studio engine on <strong>Cloudflare Workers</strong> (0ms cold start, sub-50ms edge latency worldwide).</li>
-    <li>State persistence, webhook rate-limiting, and draft sessions managed via <strong>Durable Objects + SQLite storage</strong>.</li>
-    <li>Private media assets served and buffered via <strong>Cloudflare R2</strong> bucket bindings.</li>
-  </ul>
-
-  <div dir="rtl" align="right">
-    <p><strong>🇮🇷 چالش فنی:</strong> پردازش درخت گرامری (AST) متن‌های پیچیده Markdown/HTML، پیش‌نمایش بلادرنگ و انتشار بر اساس Bot API 10.3 بدون نیاز به اجاره سرورهای گران‌قیمت.</p>
-    <p><strong>راه‌حل معماری:</strong></p>
-    <ul>
-      <li>استقرار کامل موتور پردازش روی <strong>Cloudflare Workers</strong> با کلد استارت صفر ثانیه و تاخیر زیر ۵۰ میلی‌ثانیه جهانی.</li>
-      <li>مدیریت پیش‌نویس‌ها، سشن‌های چندکاربره و ریت‌لیمیت با <strong>Durable Objects بر بستر SQLite داخلی</strong>.</li>
-      <li>مدیریت بهینه فایل‌ها و عکس‌های پیام با بایندینگ بومی <strong>Cloudflare R2 Storage</strong>.</li>
-    </ul>
-  </div>
-</details>
-
-<details>
-  <summary><b>📈 3. High-Throughput Quantitative Microstructure &amp; Liquidity Engine (SmartMoney-Analyst)</b></summary>
-  <br />
-  <p><strong>🇬🇧 The Challenge:</strong> Real-time processing of massive orderbook ticks and algorithmic detection of institutional liquidity sweeps without garbage-collection pauses.</p>
-  <p><strong>The Architecture:</strong></p>
-  <ul>
-    <li>Engineered core analysis pipeline in <strong>Rust</strong> using zero-cost abstractions and lock-free ring buffers.</li>
-    <li>Sub-millisecond market microstructure parsing and imbalance volume profiling.</li>
-    <li>Seamless integration with asynchronous Python/FastAPI downstream services for alert distribution.</li>
-  </ul>
-
-  <div dir="rtl" align="right">
-    <p><strong>🇮🇷 چالش فنی:</strong> پردازش بلادرنگ جریان سفارشات (Orderbook) و شناسایی نقدینگی نهادی بازارهای مالی بدون افت پرفورمنس ناشی از Garbage Collection.</p>
-    <p><strong>راه‌حل معماری:</strong></p>
-    <ul>
-      <li>طراحی پایپ‌لاین هسته پردازشی با زبان <strong>Rust</strong> و بهره‌گیری از Zero-Cost Abstractions و بافرهای غیرمسدودکننده (Lock-Free).</li>
-      <li>محاسبه آنی حجم و جریان نقدینگی در مقیاس زیر میلی‌ثانیه.</li>
-      <li>ارتباط ساخت‌یافته با سرویس‌های ناهمگام Python/FastAPI جهت توزیع بلادرنگ هشدارهای معاملاتی.</li>
-    </ul>
-  </div>
-</details>
-
----
-
-### 📈 Enterprise & Development Footprint • کارنامه و ردپای فنی پروژه‌ها
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>۱۹</h3>
-      <p><strong>Active Repositories</strong><br /><small dir="rtl">مجموع مخازن فعال</small></p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Multi-Stack</h3>
-      <p><strong>Systems Architecture</strong><br /><small dir="rtl">معماری سیستم‌های چندسکویی</small></p>
-    </td>
-    <td align="center" width="25%">
-      <h3>۹</h3>
-      <p><strong>Enterprise NDA Repos</strong><br /><small dir="rtl">پروژه‌های تجاری و محرمانه</small></p>
-    </td>
-    <td align="center" width="25%">
-      <h3>۱۰</h3>
-      <p><strong>Open Source Repos</strong><br /><small dir="rtl">پروژه‌ها و ابزارهای متن‌باز</small></p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>🔍 Architectural Track Record by Domain • تفکیک حوزه‌های تخصصی پروژه‌ها</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td width="30%"><strong>TypeScript &amp; JavaScript</strong></td>
-      <td width="30%"><img src="https://img.shields.io/badge/Ecosystem-Full--Stack-3178C6?style=flat-square" alt="TypeScript" /></td>
-      <td><small dir="rtl">پلتفرم‌های جامع سازمانی، Next.js 16، React 19، PWA و کلودفلر</small></td>
-    </tr>
-    <tr>
-      <td><strong>Python &amp; FastAPI</strong></td>
-      <td><img src="https://img.shields.io/badge/Ecosystem-Microservices-3776AB?style=flat-square" alt="Python" /></td>
-      <td><small dir="rtl">معماری میکروسرویس‌ها، موتورهای محاسباتی و APIهای پرسرعت</small></td>
-    </tr>
-    <tr>
-      <td><strong>Go (Golang) &amp; Rust</strong></td>
-      <td><img src="https://img.shields.io/badge/Ecosystem-High--Performance-00ADD8?style=flat-square" alt="Go and Rust" /></td>
-      <td><small dir="rtl">سیستم‌های عملکرد بالا، پردازش تراکنش‌ها و تحلیل میکرواستراکچر مالی</small></td>
-    </tr>
-    <tr>
-      <td><strong>Kotlin &amp; Android</strong></td>
-      <td><img src="https://img.shields.io/badge/Ecosystem-Native_Mobile-7F52FF?style=flat-square" alt="Kotlin" /></td>
-      <td><small dir="rtl">اپلیکیشن‌های نیتیو اندروید، جت‌پک کامپوز و سیستم‌های یادآور خورشیدی</small></td>
-    </tr>
-    <tr>
-      <td><strong>SQL &amp; PostgreSQL</strong></td>
-      <td><img src="https://img.shields.io/badge/Ecosystem-Relational_Data-336791?style=flat-square" alt="SQL" /></td>
-      <td><small dir="rtl">مدل‌سازی رابطه‌ای دیتابیس، مایگریشن‌ها و کوئری‌های بهینه با Prisma</small></td>
-    </tr>
-  </table>
-</details>
-
----
-
-### 🚀 Featured Open Source Projects • پروژه‌های شاخص متن‌باز
+### Featured Open Source Projects • پروژه‌های شاخص متن‌باز
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/xSOH3ILx/SOH3IL">📱 SOH3IL</a></h4>
+      <h4><a href="https://github.com/xSOH3ILx/SOH3IL">SOH3IL</a></h4>
       <p>Modern Persian Jalali Calendar & Exact Solar Recurring Reminder Engine for Android built with Kotlin and Jetpack Compose.</p>
       <div dir="rtl" align="right">
         <p><small>تقویم جلالی مدرن و موتور پردازش یادآورهای دقیق خورشیدی برای اندروید، پیاده‌سازی‌شده با کاتلین و جت‌پک کامپوز.</small></p>
@@ -202,7 +103,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/xSOH3ILx/TeleRich-Standalone">🤖 TeleRich-Standalone</a></h4>
+      <h4><a href="https://github.com/xSOH3ILx/TeleRich-Standalone">TeleRich-Standalone</a></h4>
       <p>Independent Telegram Rich Messaging Studio & bot engine running serverless on Cloudflare Workers with native Markdown/HTML live rendering.</p>
       <div dir="rtl" align="right">
         <p><small>استودیو و ربات مستقل پیام‌رسانی پیشرفته تلگرام (Rich Messaging) مبتنی بر کلودفلر ورکرز با رندر زنده Markdown و HTML.</small></p>
@@ -216,7 +117,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4><a href="https://github.com/xSOH3ILx/Gnome-PersianCalendar">🐧 Gnome-PersianCalendar</a></h4>
+      <h4><a href="https://github.com/xSOH3ILx/Gnome-PersianCalendar">Gnome-PersianCalendar</a></h4>
       <p>Persian (Jalali) Solar Calendar integration and indicator for the GNOME Shell desktop environment on Linux.</p>
       <div dir="rtl" align="right">
         <p><small>افزونه و نشانگر تقویم خورشیدی جلالی برای میزکار لینوکس GNOME Shell.</small></p>
@@ -232,7 +133,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Architecture • جعبه‌ابزار و معماری فنی
+### Tech Stack & Architecture • جعبه‌ابزار و معماری فنی
 
 <table>
   <tr>
@@ -286,7 +187,64 @@
 
 ---
 
-### 📊 GitHub Activity & Dynamics • پویایی فعالیت‌های گیت‌هاب
+### Enterprise & Development Footprint • کارنامه و ردپای فنی پروژه‌ها
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>۱۹</h3>
+      <p><strong>Active Repositories</strong><br /><small dir="rtl">مجموع مخازن فعال</small></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Multi-Stack</h3>
+      <p><strong>Systems Architecture</strong><br /><small dir="rtl">معماری سیستم‌های چندسکویی</small></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>۹</h3>
+      <p><strong>Enterprise NDA Repos</strong><br /><small dir="rtl">پروژه‌های تجاری و محرمانه</small></p>
+    </td>
+    <td align="center" width="25%">
+      <h3>۱۰</h3>
+      <p><strong>Open Source Repos</strong><br /><small dir="rtl">پروژه‌ها و ابزارهای متن‌باز</small></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Architectural Track Record by Domain • تفکیک حوزه‌های تخصصی پروژه‌ها</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="30%"><strong>TypeScript &amp; JavaScript</strong></td>
+      <td width="30%"><img src="https://img.shields.io/badge/Ecosystem-Full--Stack-3178C6?style=flat-square" alt="TypeScript" /></td>
+      <td><small dir="rtl">پلتفرم‌های جامع سازمانی، Next.js 16، React 19، PWA و کلودفلر</small></td>
+    </tr>
+    <tr>
+      <td><strong>Python &amp; FastAPI</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-Microservices-3776AB?style=flat-square" alt="Python" /></td>
+      <td><small dir="rtl">معماری میکروسرویس‌ها، موتورهای محاسباتی و APIهای پرسرعت</small></td>
+    </tr>
+    <tr>
+      <td><strong>Go (Golang) &amp; Rust</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-High--Performance-00ADD8?style=flat-square" alt="Go and Rust" /></td>
+      <td><small dir="rtl">سیستم‌های عملکرد بالا، پردازش تراکنش‌ها و تحلیل میکرواستراکچر مالی</small></td>
+    </tr>
+    <tr>
+      <td><strong>Kotlin &amp; Android</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-Native_Mobile-7F52FF?style=flat-square" alt="Kotlin" /></td>
+      <td><small dir="rtl">اپلیکیشن‌های نیتیو اندروید، جت‌پک کامپوز و سیستم‌های یادآور خورشیدی</small></td>
+    </tr>
+    <tr>
+      <td><strong>SQL &amp; PostgreSQL</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-Relational_Data-336791?style=flat-square" alt="SQL" /></td>
+      <td><small dir="rtl">مدل‌سازی رابطه‌ای دیتابیس، مایگریشن‌ها و کوئری‌های بهینه با Prisma</small></td>
+    </tr>
+  </table>
+</details>
+
+---
+
+### GitHub Activity & Dynamics • پویایی فعالیت‌های گیت‌هاب
 
 <div align="center">
   <picture>
