@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="assets/header-banner.svg" alt="Soheil Vatandoust - Idea Maker & Software Architect" width="100%" />
+<img src="assets/header-banner.svg" alt="Soheil Vatandoust - Software Architect & Product Engineer" width="100%" />
 
 <br /><br />
 
+### «مسئله رو می‌شناسم، راه‌حلش رو می‌سازم!» • "I understand the problem. I build the solution."
+
 <p align="center">
-  <em>I look for simpler, more efficient ways to solve problems and turn fresh ideas into useful, high-impact products. AI is one of the tools I use along the way.</em>
+  <strong>Software Architect &amp; Product Builder</strong> specialized in native Android engineering, high-throughput systems (Go/Rust/Python), and resilient web &amp; edge architectures.
   <br />
-  <span dir="rtl" style="display:inline-block;">برای حل مسئله، دنبال راه‌های ساده‌تر و بهینه‌تر می‌گردم و ایده‌های تازه رو به یه محصول کاربردی می‌رسونم. هوش مصنوعی هم یکی از ابزارهاییه که توی این مسیر به کار می‌گیرم.</span>
+  <span dir="rtl" style="display:inline-block;"><strong>معمار نرم‌افزار و سازنده محصول؛</strong> متمرکز بر مهندسی نیتیو اندروید، سیستم‌های مقیاس‌پذیر بک‌اند (Go / Rust / Python) و معماری‌های مدرن وب و زیرساخت ابری.</span>
 </p>
 
 <p align="center">
-  <a href="https://soheil-vatandoust.ir"><img src="https://img.shields.io/badge/Website-soheil--vatandoust.ir-0969da?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://soheil-vatandoust.ir"><img src="https://img.shields.io/badge/Portfolio-soheil--vatandoust.ir-0969da?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://t.me/Soheil_VatanDoust"><img src="https://img.shields.io/badge/Telegram-@Soheil__VatanDoust-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://wa.me/message/7OACOSEAUQLWL1"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:vatandoust.soheil@gmail.com"><img src="https://img.shields.io/badge/Email-vatandoust.soheil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -103,7 +105,7 @@
 </details>
 
 <details>
-  <summary><b>📈 3. High-Throughput Quantitative Microstructure & Liquidity Engine (SmartMoney-Analyst)</b></summary>
+  <summary><b>📈 3. High-Throughput Quantitative Microstructure &amp; Liquidity Engine (SmartMoney-Analyst)</b></summary>
   <br />
   <p><strong>🇬🇧 The Challenge:</strong> Real-time processing of massive orderbook ticks and algorithmic detection of institutional liquidity sweeps without garbage-collection pauses.</p>
   <p><strong>The Architecture:</strong></p>
