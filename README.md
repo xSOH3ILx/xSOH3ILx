@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Soheil Vatandoust 👋
-### Idea Maker & Software Architect • ایده‌پرداز و معمار نرم‌افزار
-**«مسئله رو می‌شناسم، راه‌حلش رو می‌سازم!» • "I understand the problem. I build the solution."**
+<img src="assets/header-banner.svg" alt="Soheil Vatandoust - Idea Maker & Software Architect" width="100%" />
+
+<br /><br />
 
 <p align="center">
   <em>I look for simpler, more efficient ways to solve problems and turn fresh ideas into useful, high-impact products. AI is one of the tools I use along the way.</em>
@@ -62,6 +62,97 @@
 > بخش عمده‌ای از کدنویسی پروداکشن، معماری سیستم‌ها و پروژه‌های تجاری روزمره من در **مخازن خصوصی** برای کارفرمایان و محصولات تجاری تحت قراردادهای رسمی عدم افشا (NDA) قرار دارد. با حفظ کامل محرمانگی این سورس‌کدها، انضباط معماری، استاندارد کدهای تمیز و شیوه حل مسئله‌ای که در مخازن عمومی مشاهده می‌کنید، بازتاب‌دهنده همان استانداردهای بالا در تمامی پروژه‌های تجاری من است.
 > 
 > </div>
+
+---
+
+### ⚡ Architectural Case Studies & Engineering Highlights • چالش‌ها و دستاوردهای معماری
+
+<details>
+  <summary><b>📱 1. Zero-Drift Solar Engine vs. Android OEM Doze Mode (SOH3IL)</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <p><strong>The Challenge:</strong> Most Android calendars drift reminders by 1–2 days in Persian leap/31-day months, while aggressive vendor battery managers (Xiaomi, Samsung) kill background alarms.</p>
+        <p><strong>The Architecture:</strong></p>
+        <ul>
+          <li>Rules stored natively in Solar Jalali format (<code>RecurrenceRule</code>) in Room SQLite.</li>
+          <li><code>AlarmManager.setAlarmClock()</code> triggers CPU wake-up exactly on target second with zero battery penalty during idle hours.</li>
+          <li>Deterministic <code>SNAP_TO_LAST_DAY</code> policy for Esfand and 30-day months.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" dir="rtl" align="right">
+        <div dir="rtl" align="right">
+          <p><strong>چالش فنی:</strong> جابجایی ۱ الی ۲ روزه یادآورهای دوره‌ای خورشیدی در ماه‌های ۳۱ و ۲۹ روزه، همراه با بسته شدن پروسه‌های پس‌زمینه توسط مدیریت باتری گوشی‌ها.</p>
+          <p><strong>راه‌حل معماری:</strong></p>
+          <ul>
+            <li>ذخیره بومی الگوهای تکرار با تقویم جلالی در Room دیتابیس بدون تبدیل مبنا به میلادی.</li>
+            <li>استفاده از <code>AlarmManager.setAlarmClock()</code> برای بیداری دقیق پردازنده با مصرف باتری صفر در زمان خواب دستگاه.</li>
+            <li>سیاست انطباق هوشمند <code>SNAP_TO_LAST_DAY</code> برای انطباق خودکار یادآورهای روز ۳۱ در ماه‌های ۳۰ روزه و اسفند.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>🤖 2. Serverless Telegram Rich Messaging at Global Edge Latency (TeleRich Studio)</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <p><strong>The Challenge:</strong> Parsing complex Markdown/HTML ASTs, rendering live previews, and managing Telegram Bot API 10.3 entities without running an expensive dedicated server.</p>
+        <p><strong>The Architecture:</strong></p>
+        <ul>
+          <li>Compiled full studio engine on <strong>Cloudflare Workers</strong> (0ms cold start, sub-50ms edge latency worldwide).</li>
+          <li>State persistence, webhook rate-limiting, and draft sessions managed via <strong>Durable Objects + SQLite storage</strong>.</li>
+          <li>Private media assets served and buffered via <strong>Cloudflare R2</strong> bucket bindings.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" dir="rtl" align="right">
+        <div dir="rtl" align="right">
+          <p><strong>چالش فنی:</strong> پردازش درخت گرامری (AST) متن‌های پیچیده Markdown/HTML، پیش‌نمایش بلادرنگ و انتشار بر اساس Bot API 10.3 بدون نیاز به اجاره سرورهای گران‌قیمت.</p>
+          <p><strong>راه‌حل معماری:</strong></p>
+          <ul>
+            <li>استقرار کامل موتور پردازش روی <strong>Cloudflare Workers</strong> با کلد استارت صفر ثانیه و تاخیر زیر ۵۰ میلی‌ثانیه جهانی.</li>
+            <li>مدیریت پیش‌نویس‌ها، سشن‌های چندکاربره و ریت‌لیمیت با <strong>Durable Objects بر بستر SQLite داخلی</strong>.</li>
+            <li>مدیریت بهینه فایل‌ها و عکس‌های پیام با بایندینگ بومی <strong>Cloudflare R2 Storage</strong>.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>📈 3. High-Throughput Quantitative Microstructure & Liquidity Engine (SmartMoney-Analyst)</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <p><strong>The Challenge:</strong> Real-time processing of massive orderbook ticks and algorithmic detection of institutional liquidity sweeps without garbage-collection pauses.</p>
+        <p><strong>The Architecture:</strong></p>
+        <ul>
+          <li>Engineered core analysis pipeline in <strong>Rust</strong> using zero-cost abstractions and lock-free ring buffers.</li>
+          <li>Sub-millisecond market microstructure parsing and imbalance volume profiling.</li>
+          <li>Seamless integration with asynchronous Python/FastAPI downstream services for alert distribution.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" dir="rtl" align="right">
+        <div dir="rtl" align="right">
+          <p><strong>چالش فنی:</strong> پردازش بلادرنگ جریان سفارشات (Orderbook) و شناسایی نقدینگی نهادی بازارهای مالی بدون افت پرفورمنس ناشی از Garbage Collection.</p>
+          <p><strong>راه‌حل معماری:</strong></p>
+          <ul>
+            <li>طراحی پایپ‌لاین هسته پردازشی با زبان <strong>Rust</strong> و بهره‌گیری از Zero-Cost Abstractions و بافرهای غیرمسدودکننده (Lock-Free).</li>
+            <li>محاسبه آنی حجم و جریان نقدینگی در مقیاس زیر میلی‌ثانیه.</li>
+            <li>ارتباط ساخت‌یافته با سرویس‌های ناهمگام Python/FastAPI جهت توزیع بلادرنگ هشدارهای معاملاتی.</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
@@ -228,6 +319,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xSOH3ILx&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Soheil's GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xSOH3ILx&hide_border=true&theme=tokyonight&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117" alt="GitHub Streak" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xSOH3ILx/xSOH3ILx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xSOH3ILx/xSOH3ILx/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xSOH3ILx/xSOH3ILx/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
