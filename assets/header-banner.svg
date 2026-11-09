@@ -98,10 +98,10 @@
   <!-- Domain Highlights Line -->
   <g transform="translate(40, 148)">
     <text x="0" y="0" class="domain-tag">
-      <tspan fill="#38bdf8">◆</tspan> Android Ecosystem &nbsp;&nbsp;
-      <tspan fill="#58a6ff">◆</tspan> Distributed &amp; Cloudflare Edge &nbsp;&nbsp;
-      <tspan fill="#3fb950">◆</tspan> High-Performance Systems &nbsp;&nbsp;
-      <tspan fill="#e3b341">◆</tspan> Full-Stack Next.js
+      <tspan fill="#38bdf8">&#9670;</tspan> Android Ecosystem &#160;&#160;
+      <tspan fill="#58a6ff">&#9670;</tspan> Distributed &amp; Cloudflare Edge &#160;&#160;
+      <tspan fill="#3fb950">&#9670;</tspan> High-Performance Systems &#160;&#160;
+      <tspan fill="#e3b341">&#9670;</tspan> Full-Stack Next.js
     </text>
   </g>
 
