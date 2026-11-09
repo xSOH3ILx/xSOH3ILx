@@ -23,30 +23,21 @@
 
 ### 💡 About Me • درباره من
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🇬🇧 English</h4>
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Crafting modern Android solutions, high-performance systems with Go & Rust, resilient web architectures, and intelligent automation.</li>
-        <li>🎯 <b>Engineering Mindset:</b> Problem-first thinking, clean architecture, pragmatic design patterns, and high-performance execution across open-source and enterprise products.</li>
-        <li>💬 <b>Ask me about:</b> Android (Kotlin & Jetpack Compose), Next.js / TypeScript, Enterprise Backend (FastAPI, Go, Rust), Relational Databases (PostgreSQL, Prisma), and Linux automation.</li>
-        <li>⚡ <b>Philosophy:</b> The best software solves complex problems with the simplest, most elegant solution.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" dir="rtl" align="right">
-      <div dir="rtl" align="right">
-        <h4>🇮🇷 فارسی</h4>
-        <ul>
-          <li>🔭 <b>تمرکز فعلی:</b> توسعه راهکارهای مدرن اندروید، سیستم‌های سریع با Go و Rust، معماری وب مقیاس‌پذیر و ربات‌ها و اتوماسیون هوشمند.</li>
-          <li>🎯 <b>دیدگاه مهندسی:</b> اولویت حل مسئله، معماری تمیز (Clean Architecture)، الگوهای طراحی کاربردی و مهندسی دقیق در پروژه‌های تجاری و متن‌باز.</li>
-          <li>💬 <b>گفت‌وگو و همکاری:</b> اندروید (کاتلین و کامپوز)، فول‌استک (Next.js و تایپ‌اسکریپت)، بک‌اند پیشرفته (FastAPI, Go, Rust)، دیتابیس‌ها (PostgreSQL و Prisma) و سیستم‌های لینوکسی.</li>
-          <li>⚡ <b>باور من:</b> بهترین نرم‌افزار، نرم‌افزاریه که مسئله‌ای پیچیده رو با ساده‌ترین و زیباترین راه‌حل ممکن برطرف کنه.</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
+#### 🇬🇧 English
+- 🔭 **Current Focus:** Crafting modern Android solutions, high-performance systems with Go & Rust, resilient web platforms, and intelligent automation.
+- 🎯 **Engineering Mindset:** Problem-first thinking, clean architecture, pragmatic design patterns, and high-performance execution across open-source and enterprise products.
+- 💬 **Ask me about:** Android (Kotlin & Jetpack Compose), Next.js / TypeScript, Enterprise Backend (FastAPI, Go, Rust), Relational Databases (PostgreSQL, Prisma), and Linux automation.
+- ⚡ **Philosophy:** The best software solves complex problems with the simplest, most elegant solution.
+
+<div dir="rtl" align="right">
+
+#### 🇮🇷 درباره من
+- 🔭 **تمرکز فعلی:** توسعه راهکارهای مدرن اندروید، سیستم‌های سریع با Go و Rust، معماری وب مقیاس‌پذیر و ربات‌ها و اتوماسیون هوشمند.
+- 🎯 **دیدگاه مهندسی:** اولویت حل مسئله، معماری تمیز (Clean Architecture)، الگوهای طراحی کاربردی و مهندسی دقیق در پروژه‌های تجاری و متن‌باز.
+- 💬 **گفت‌وگو و همکاری:** اندروید (کاتلین و کامپوز)، فول‌استک (Next.js و تایپ‌اسکریپت)، بک‌اند پیشرفته (FastAPI, Go, Rust)، دیتابیس‌ها (PostgreSQL و Prisma) و سیستم‌های لینوکسی.
+- ⚡ **باور من:** بهترین نرم‌افزار، نرم‌افزاریه که مسئله‌ای پیچیده رو با ساده‌ترین و زیباترین راه‌حل ممکن برطرف کنه.
+
+</div>
 
 ---
 
@@ -70,88 +61,67 @@
 <details>
   <summary><b>📱 1. Zero-Drift Solar Engine vs. Android OEM Doze Mode (SOH3IL)</b></summary>
   <br />
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <p><strong>The Challenge:</strong> Most Android calendars drift reminders by 1–2 days in Persian leap/31-day months, while aggressive vendor battery managers (Xiaomi, Samsung) kill background alarms.</p>
-        <p><strong>The Architecture:</strong></p>
-        <ul>
-          <li>Rules stored natively in Solar Jalali format (<code>RecurrenceRule</code>) in Room SQLite.</li>
-          <li><code>AlarmManager.setAlarmClock()</code> triggers CPU wake-up exactly on target second with zero battery penalty during idle hours.</li>
-          <li>Deterministic <code>SNAP_TO_LAST_DAY</code> policy for Esfand and 30-day months.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top" dir="rtl" align="right">
-        <div dir="rtl" align="right">
-          <p><strong>چالش فنی:</strong> جابجایی ۱ الی ۲ روزه یادآورهای دوره‌ای خورشیدی در ماه‌های ۳۱ و ۲۹ روزه، همراه با بسته شدن پروسه‌های پس‌زمینه توسط مدیریت باتری گوشی‌ها.</p>
-          <p><strong>راه‌حل معماری:</strong></p>
-          <ul>
-            <li>ذخیره بومی الگوهای تکرار با تقویم جلالی در Room دیتابیس بدون تبدیل مبنا به میلادی.</li>
-            <li>استفاده از <code>AlarmManager.setAlarmClock()</code> برای بیداری دقیق پردازنده با مصرف باتری صفر در زمان خواب دستگاه.</li>
-            <li>سیاست انطباق هوشمند <code>SNAP_TO_LAST_DAY</code> برای انطباق خودکار یادآورهای روز ۳۱ در ماه‌های ۳۰ روزه و اسفند.</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <p><strong>🇬🇧 The Challenge:</strong> Most Android calendars drift reminders by 1–2 days in Persian leap/31-day months, while aggressive vendor battery managers (Xiaomi, Samsung) kill background alarms.</p>
+  <p><strong>The Architecture:</strong></p>
+  <ul>
+    <li>Rules stored natively in Solar Jalali format (<code>RecurrenceRule</code>) in Room SQLite.</li>
+    <li><code>AlarmManager.setAlarmClock()</code> triggers CPU wake-up exactly on target second with zero battery penalty during idle hours.</li>
+    <li>Deterministic <code>SNAP_TO_LAST_DAY</code> policy for Esfand and 30-day months.</li>
+  </ul>
+  
+  <div dir="rtl" align="right">
+    <p><strong>🇮🇷 چالش فنی:</strong> جابجایی ۱ الی ۲ روزه یادآورهای دوره‌ای خورشیدی در ماه‌های ۳۱ و ۲۹ روزه، همراه با بسته شدن پروسه‌های پس‌زمینه توسط مدیریت باتری گوشی‌ها.</p>
+    <p><strong>راه‌حل معماری:</strong></p>
+    <ul>
+      <li>ذخیره بومی الگوهای تکرار با تقویم جلالی در Room دیتابیس بدون تبدیل مبنا به میلادی.</li>
+      <li>استفاده از <code>AlarmManager.setAlarmClock()</code> برای بیداری دقیق پردازنده با مصرف باتری صفر در زمان خواب دستگاه.</li>
+      <li>سیاست انطباق هوشمند <code>SNAP_TO_LAST_DAY</code> برای انطباق خودکار یادآورهای روز ۳۱ در ماه‌های ۳۰ روزه و اسفند.</li>
+    </ul>
+  </div>
 </details>
 
 <details>
   <summary><b>🤖 2. Serverless Telegram Rich Messaging at Global Edge Latency (TeleRich Studio)</b></summary>
   <br />
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <p><strong>The Challenge:</strong> Parsing complex Markdown/HTML ASTs, rendering live previews, and managing Telegram Bot API 10.3 entities without running an expensive dedicated server.</p>
-        <p><strong>The Architecture:</strong></p>
-        <ul>
-          <li>Compiled full studio engine on <strong>Cloudflare Workers</strong> (0ms cold start, sub-50ms edge latency worldwide).</li>
-          <li>State persistence, webhook rate-limiting, and draft sessions managed via <strong>Durable Objects + SQLite storage</strong>.</li>
-          <li>Private media assets served and buffered via <strong>Cloudflare R2</strong> bucket bindings.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top" dir="rtl" align="right">
-        <div dir="rtl" align="right">
-          <p><strong>چالش فنی:</strong> پردازش درخت گرامری (AST) متن‌های پیچیده Markdown/HTML، پیش‌نمایش بلادرنگ و انتشار بر اساس Bot API 10.3 بدون نیاز به اجاره سرورهای گران‌قیمت.</p>
-          <p><strong>راه‌حل معماری:</strong></p>
-          <ul>
-            <li>استقرار کامل موتور پردازش روی <strong>Cloudflare Workers</strong> با کلد استارت صفر ثانیه و تاخیر زیر ۵۰ میلی‌ثانیه جهانی.</li>
-            <li>مدیریت پیش‌نویس‌ها، سشن‌های چندکاربره و ریت‌لیمیت با <strong>Durable Objects بر بستر SQLite داخلی</strong>.</li>
-            <li>مدیریت بهینه فایل‌ها و عکس‌های پیام با بایندینگ بومی <strong>Cloudflare R2 Storage</strong>.</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <p><strong>🇬🇧 The Challenge:</strong> Parsing complex Markdown/HTML ASTs, rendering live previews, and managing Telegram Bot API 10.3 entities without running an expensive dedicated server.</p>
+  <p><strong>The Architecture:</strong></p>
+  <ul>
+    <li>Compiled full studio engine on <strong>Cloudflare Workers</strong> (0ms cold start, sub-50ms edge latency worldwide).</li>
+    <li>State persistence, webhook rate-limiting, and draft sessions managed via <strong>Durable Objects + SQLite storage</strong>.</li>
+    <li>Private media assets served and buffered via <strong>Cloudflare R2</strong> bucket bindings.</li>
+  </ul>
+
+  <div dir="rtl" align="right">
+    <p><strong>🇮🇷 چالش فنی:</strong> پردازش درخت گرامری (AST) متن‌های پیچیده Markdown/HTML، پیش‌نمایش بلادرنگ و انتشار بر اساس Bot API 10.3 بدون نیاز به اجاره سرورهای گران‌قیمت.</p>
+    <p><strong>راه‌حل معماری:</strong></p>
+    <ul>
+      <li>استقرار کامل موتور پردازش روی <strong>Cloudflare Workers</strong> با کلد استارت صفر ثانیه و تاخیر زیر ۵۰ میلی‌ثانیه جهانی.</li>
+      <li>مدیریت پیش‌نویس‌ها، سشن‌های چندکاربره و ریت‌لیمیت با <strong>Durable Objects بر بستر SQLite داخلی</strong>.</li>
+      <li>مدیریت بهینه فایل‌ها و عکس‌های پیام با بایندینگ بومی <strong>Cloudflare R2 Storage</strong>.</li>
+    </ul>
+  </div>
 </details>
 
 <details>
   <summary><b>📈 3. High-Throughput Quantitative Microstructure & Liquidity Engine (SmartMoney-Analyst)</b></summary>
   <br />
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <p><strong>The Challenge:</strong> Real-time processing of massive orderbook ticks and algorithmic detection of institutional liquidity sweeps without garbage-collection pauses.</p>
-        <p><strong>The Architecture:</strong></p>
-        <ul>
-          <li>Engineered core analysis pipeline in <strong>Rust</strong> using zero-cost abstractions and lock-free ring buffers.</li>
-          <li>Sub-millisecond market microstructure parsing and imbalance volume profiling.</li>
-          <li>Seamless integration with asynchronous Python/FastAPI downstream services for alert distribution.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top" dir="rtl" align="right">
-        <div dir="rtl" align="right">
-          <p><strong>چالش فنی:</strong> پردازش بلادرنگ جریان سفارشات (Orderbook) و شناسایی نقدینگی نهادی بازارهای مالی بدون افت پرفورمنس ناشی از Garbage Collection.</p>
-          <p><strong>راه‌حل معماری:</strong></p>
-          <ul>
-            <li>طراحی پایپ‌لاین هسته پردازشی با زبان <strong>Rust</strong> و بهره‌گیری از Zero-Cost Abstractions و بافرهای غیرمسدودکننده (Lock-Free).</li>
-            <li>محاسبه آنی حجم و جریان نقدینگی در مقیاس زیر میلی‌ثانیه.</li>
-            <li>ارتباط ساخت‌یافته با سرویس‌های ناهمگام Python/FastAPI جهت توزیع بلادرنگ هشدارهای معاملاتی.</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <p><strong>🇬🇧 The Challenge:</strong> Real-time processing of massive orderbook ticks and algorithmic detection of institutional liquidity sweeps without garbage-collection pauses.</p>
+  <p><strong>The Architecture:</strong></p>
+  <ul>
+    <li>Engineered core analysis pipeline in <strong>Rust</strong> using zero-cost abstractions and lock-free ring buffers.</li>
+    <li>Sub-millisecond market microstructure parsing and imbalance volume profiling.</li>
+    <li>Seamless integration with asynchronous Python/FastAPI downstream services for alert distribution.</li>
+  </ul>
+
+  <div dir="rtl" align="right">
+    <p><strong>🇮🇷 چالش فنی:</strong> پردازش بلادرنگ جریان سفارشات (Orderbook) و شناسایی نقدینگی نهادی بازارهای مالی بدون افت پرفورمنس ناشی از Garbage Collection.</p>
+    <p><strong>راه‌حل معماری:</strong></p>
+    <ul>
+      <li>طراحی پایپ‌لاین هسته پردازشی با زبان <strong>Rust</strong> و بهره‌گیری از Zero-Cost Abstractions و بافرهای غیرمسدودکننده (Lock-Free).</li>
+      <li>محاسبه آنی حجم و جریان نقدینگی در مقیاس زیر میلی‌ثانیه.</li>
+      <li>ارتباط ساخت‌یافته با سرویس‌های ناهمگام Python/FastAPI جهت توزیع بلادرنگ هشدارهای معاملاتی.</li>
+    </ul>
+  </div>
 </details>
 
 ---
@@ -162,11 +132,11 @@
   <tr>
     <td align="center" width="25%">
       <h3>۱۹</h3>
-      <p><strong>Total Repositories</strong><br /><small dir="rtl">مجموع مخازن توسعه‌یافته</small></p>
+      <p><strong>Active Repositories</strong><br /><small dir="rtl">مجموع مخازن فعال</small></p>
     </td>
     <td align="center" width="25%">
-      <h3>15+ MB</h3>
-      <p><strong>Production Codebases</strong><br /><small dir="rtl">کدنویسی سورس پروداکشن</small></p>
+      <h3>Multi-Stack</h3>
+      <p><strong>Systems Architecture</strong><br /><small dir="rtl">معماری سیستم‌های چندسکویی</small></p>
     </td>
     <td align="center" width="25%">
       <h3>۹</h3>
@@ -180,32 +150,32 @@
 </table>
 
 <details>
-  <summary><b>🔍 Verified Production Language Footprint • جزئیات تفکیکی حجم کدنویسی در مخازن</b></summary>
+  <summary><b>🔍 Architectural Track Record by Domain • تفکیک حوزه‌های تخصصی پروژه‌ها</b></summary>
   <br />
   <table>
     <tr>
-      <td width="30%"><strong>TypeScript & JavaScript</strong></td>
-      <td width="40%"><img src="https://img.shields.io/badge/Volume-10.5%2B_MB-3178C6?style=flat-square" alt="TypeScript Volume" /></td>
+      <td width="30%"><strong>TypeScript &amp; JavaScript</strong></td>
+      <td width="30%"><img src="https://img.shields.io/badge/Ecosystem-Full--Stack-3178C6?style=flat-square" alt="TypeScript" /></td>
       <td><small dir="rtl">پلتفرم‌های جامع سازمانی، Next.js 16، React 19، PWA و کلودفلر</small></td>
     </tr>
     <tr>
-      <td><strong>Python & FastAPI</strong></td>
-      <td><img src="https://img.shields.io/badge/Volume-3.1%2B_MB-3776AB?style=flat-square" alt="Python Volume" /></td>
+      <td><strong>Python &amp; FastAPI</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-Microservices-3776AB?style=flat-square" alt="Python" /></td>
       <td><small dir="rtl">معماری میکروسرویس‌ها، موتورهای محاسباتی و APIهای پرسرعت</small></td>
     </tr>
     <tr>
-      <td><strong>Go (Golang) & Rust</strong></td>
-      <td><img src="https://img.shields.io/badge/Volume-1.0%2B_MB-00ADD8?style=flat-square" alt="Go and Rust Volume" /></td>
-      <td><small dir="rtl">سیستم‌های عملکرد بالا، پردازش تراکنش‌ها و ابزارهای تحلیلی مالی</small></td>
+      <td><strong>Go (Golang) &amp; Rust</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-High--Performance-00ADD8?style=flat-square" alt="Go and Rust" /></td>
+      <td><small dir="rtl">سیستم‌های عملکرد بالا، پردازش تراکنش‌ها و تحلیل میکرواستراکچر مالی</small></td>
     </tr>
     <tr>
-      <td><strong>Kotlin & Android</strong></td>
-      <td><img src="https://img.shields.io/badge/Volume-630%2B_KB-7F52FF?style=flat-square" alt="Kotlin Volume" /></td>
+      <td><strong>Kotlin &amp; Android</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-Native_Mobile-7F52FF?style=flat-square" alt="Kotlin" /></td>
       <td><small dir="rtl">اپلیکیشن‌های نیتیو اندروید، جت‌پک کامپوز و سیستم‌های یادآور خورشیدی</small></td>
     </tr>
     <tr>
-      <td><strong>SQL & PostgreSQL (PLpgSQL)</strong></td>
-      <td><img src="https://img.shields.io/badge/Database-Schemas_&_Migrations-336791?style=flat-square" alt="SQL Volume" /></td>
+      <td><strong>SQL &amp; PostgreSQL</strong></td>
+      <td><img src="https://img.shields.io/badge/Ecosystem-Relational_Data-336791?style=flat-square" alt="SQL" /></td>
       <td><small dir="rtl">مدل‌سازی رابطه‌ای دیتابیس، مایگریشن‌ها و کوئری‌های بهینه با Prisma</small></td>
     </tr>
   </table>
@@ -314,14 +284,7 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics • آمار فعالیت
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xSOH3ILx&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Soheil's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xSOH3ILx&hide_border=true&theme=tokyonight&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117" alt="GitHub Streak" height="165" />
-</div>
-
-<br />
+### 📊 GitHub Activity & Dynamics • پویایی فعالیت‌های گیت‌هاب
 
 <div align="center">
   <picture>
