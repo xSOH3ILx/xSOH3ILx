@@ -4,11 +4,8 @@
 
 <br /><br />
 
-<h3>
-  <span dir="rtl" style="display:inline-block;">«مسئله رو می‌شناسم، راه‌حلش رو می‌سازم!»</span>
-  <br />
-  <span dir="ltr" style="display:inline-block;">&ldquo;I understand the problem. I build the solution.&rdquo;</span>
-</h3>
+<h3 dir="rtl">«مسئله رو می‌شناسم، راه‌حلش رو می‌سازم!»</h3>
+<h3>&ldquo;I understand the problem. I build the solution.&rdquo;</h3>
 
 <p align="center">
   <a href="https://soheil-vatandoust.ir"><img src="https://img.shields.io/badge/Portfolio-soheil--vatandoust.ir-0969da?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -23,70 +20,47 @@
 
 ### How Can I Help? • چه کمکی ازم برمیاد؟
 
-> **Have a fresh idea or something you'd like to improve? Let's talk about it.**  
-> <span dir="rtl" style="display:inline-block;">یه ایدهٔ تازه داری یا می‌خوای چیزی که الان داری بهتر کار کنه؟ درباره‌اش حرف بزنیم.</span>
+> **Have a fresh idea or a system you'd like to scale and improve? Let's talk about it.**  
+> **یه ایدهٔ تازه داری یا می‌خوای سیستمی که الان داری بهتر کار کنه؟ درباره‌اش حرف بزنیم.**
 
-<br />
-
-#### 01. Custom Business & Enterprise Systems Development
-Whether you need tailored operational tools (custom CRMs, order tracking, inventory control, and team workflows) or enterprise-grade process automation (executive BI dashboards, real-time reporting, and replacing scattered spreadsheets)—I architect and build custom software around your organization’s exact logic to eliminate bottlenecks and centralize your entire operation.
-
-<div dir="rtl" align="right">
-
-#### ۰۱. طراحی و توسعه سامانه‌های اختصاصی برای سازمان‌ها و کسب‌وکارها
-چه برای مدیریت یکپارچه فروش و عملیات (مثل CRM اختصاصی، پیگیری سفارش‌ها، کنترل موجودی و کارتابل تیمی) و چه برای تصمیم‌گیری و اتوماسیون فرآیندهای سازمانی (مثل داشبوردهای تحلیلی و مدیریتی، گزارش‌گیری لحظه‌ای و حذف اکسل‌های پراکنده و کارهای دستی)؛ سامانه‌ای رو دقیقاً متناسب با منطق کاری مجموعه‌ات معماری و پیاده‌سازی می‌کنم تا گلوگاه‌ها حذف بشن و همه‌چیز در یک بستر متمرکز، ساده و خودکار پیش بره.
-
-</div>
-
----
-
-#### 02. Custom Native Apps & Automated Analytical Tools
-Whether you need high-speed, 24/7 processing tools (automated trading bots, market scanners, analytical engines, and desktop software) or standalone products beyond web browser limits (native mobile apps, offline-first systems, and hardware-integrated tools)—I architect and build dedicated applications engineered for maximum speed, stability, and security.
-
-<div dir="rtl" align="right">
-
-#### ۰۲. طراحی و توسعه اپلیکیشن‌های اختصاصی و ابزارهای تحلیلی و خودکار
-چه برای ابزارهای پردازشی و مالی که نیاز به اجرای ۲۴ ساعته و سرعت لحظه‌ای دارن (مثل ربات‌های ترید خودکار، اسکنرها و دستیارهای تحلیلی بازار و نرم‌افزارهای دسکتاپ) و چه برای محصولاتی که فراتر از وب‌اپ، حتماً باید به شکل یه اپلیکیشن مستقل نصب بشن (مثل اپ‌های اختصاصی موبایل، سیستم‌های آفلاین‌محور و ابزارهای نیازمند دسترسی مستقیم به سخت‌افزار)؛ نرم‌افزارت رو با بالاترین پایداری، امنیت و سرعت معماری و پیاده‌سازی می‌کنم.
-
-</div>
-
----
-
-#### 03. Custom Website & Web Application Development
-Whether you need a high-converting digital presence (corporate and personal websites, e-commerce stores, and SEO-ready landing pages) or an interactive web platform (booking systems, service marketplaces, customer portals, and PWAs)—I design and build fast, responsive, and modern web applications that deliver a seamless experience across all devices.
-
-<div dir="rtl" align="right">
-
-#### ۰۳. طراحی و توسعه وب‌سایت و وب‌اپلیکیشن اختصاصی
-چه برای ساخت ویترین دیجیتال و جذب مشتری (مثل وب‌سایت‌های شرکتی و شخصی، فروشگاه‌های آنلاین و لندینگ‌پیج‌های بهینه‌شده برای گوگل) و چه برای راه‌اندازی پلتفرم‌های تعاملی تحت‌وب (مثل سیستم‌های نوبت‌دهی و رزرواسیون، پلتفرم‌های خدماتی، پورتال مشتریان و وب‌اپلیکیشن‌ها (PWA) )؛ ایده‌ات رو با معماری مدرن، سرعت بالا و رابط کاربری روان به یه محصول تحت‌وب کاربردی تبدیل می‌کنم که روی هر دستگاهی بی‌نقص کار کنه.
-
-</div>
-
----
-
-#### 04. Interactive Telegram Bot & Mini-App Development
-Whether you need customer-facing tools (onboarding, booking, in-app sales, and loyalty programs) or internal automation (team reporting, CRM sync, financial workflows, and real-time alerts)—I build smart bots and interactive Mini-Apps that run natively inside Telegram, streamlining your day-to-day operations.
-
-<div dir="rtl" align="right">
-
-#### ۰۴. طراحی و توسعه ربات و مینی‌اپ تعاملی تلگرام
-چه برای ارتباط با مشتری (مثل ثبت‌نام، نوبت‌دهی، فروش آنلاین و باشگاه مشتریان) و چه برای اتوماسیون درون‌سازمانی (مثل گزارش‌گیری از تیم، اتصال به CRM، امور مالی و اعلان‌های مدیریتی)؛ هر قابلیتی که کسب‌وکارت نیاز داره رو در قالب یه ربات هوشمند یا مینی‌اپ تعاملی، مستقیم میارم داخل تلگرام تا کارهات ساده‌تر و بهینه‌تر پیش بره.
-
-</div>
-
----
-
-### Commercial & Enterprise Work (NDA) • پروژه‌های تجاری و تعهدنامه محرمانگی
-
-> **Client Work & Non-Disclosure Agreements (NDAs):**  
-> A substantial share of my day-to-day production code, system architectures, and enterprise engineering resides in **private repositories** for clients and commercial products under strict NDAs. While those proprietary codebases remain strictly confidential, the architectural discipline, clean-code standards, and problem-solving methodology demonstrated across my public repositories reflect the identical high standards applied to all commercial engagements.
-
-<div dir="rtl" align="right">
-
-> **پروژه‌های تجاری و تعهدنامه محرمانگی (NDA):**  
-> بخش عمده‌ای از کدنویسی پروداکشن، معماری سیستم‌ها و پروژه‌های تجاری روزمره من در **مخازن خصوصی** برای کارفرمایان و محصولات تجاری تحت قراردادهای رسمی عدم افشا (NDA) قرار دارد. با حفظ کامل محرمانگی این سورس‌کدها، انضباط معماری، استاندارد کدهای تمیز و شیوه حل مسئله‌ای که در مخازن عمومی مشاهده می‌کنید، بازتاب‌دهنده همان استانداردهای بالا در تمامی پروژه‌های تجاری من است.
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>01. Business &amp; Enterprise Systems</h4>
+      <p>Tailored operational tools (custom CRMs, order tracking, inventory control) and enterprise automation (executive BI dashboards, real-time reporting, and replacing scattered spreadsheets) engineered around your exact business logic.</p>
+      <div dir="rtl" align="right">
+        <h4>۰۱. سامانه‌های اختصاصی سازمانی و کسب‌وکار</h4>
+        <p><small>طراحی و معماری ابزارهای عملیاتی (CRM اختصاصی، مدیریت سفارش و موجودی، کارتابل تیمی) و اتوماسیون فرآیندها (داشبوردهای مدیریتی BI، گزارش‌گیری لحظه‌ای و حذف اکسل‌های پراکنده) دقیقاً متناسب با منطق کاری مجموعه شما.</small></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h4>02. Native Apps &amp; Analytical Engines</h4>
+      <p>High-speed 24/7 processing tools (automated trading bots, market scanners, analytical engines) and standalone native applications (Android mobile apps, offline-first systems, and hardware-integrated software) built for maximum stability.</p>
+      <div dir="rtl" align="right">
+        <h4>۰۲. اپلیکیشن‌های اختصاصی و ابزارهای تحلیلی</h4>
+        <p><small>توسعه ابزارهای پردازشی و مالی ۲۴ ساعته با سرعت لحظه‌ای (ربات‌های ترید، اسکنرها و موتورهای تحلیلی بازار) و اپلیکیشن‌های مستقل نیتیو (موبایل، دسکتاپ و سیستم‌های آفلاین‌محور) با بالاترین پایداری و امنیت.</small></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>03. Web Applications &amp; Platforms</h4>
+      <p>High-converting digital platforms (corporate websites, e-commerce, SEO-ready landing pages) and interactive web apps (booking systems, marketplaces, customer portals, and PWAs) delivering a seamless cross-device experience.</p>
+      <div dir="rtl" align="right">
+        <h4>۰۳. وب‌سایت و وب‌اپلیکیشن‌های مدرن</h4>
+        <p><small>ساخت ویترین دیجیتال (وب‌سایت‌های شرکتی، فروشگاهی و لندینگ‌پیج‌های سئو محور) و پلتفرم‌های تعاملی تحت‌وب (سیستم‌های نوبت‌دهی، پورتال مشتریان و PWA) با معماری مدرن و رابط کاربری روان روی تمام دستگاه‌ها.</small></p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h4>04. Telegram Bots &amp; Mini-Apps</h4>
+      <p>Customer-facing ecosystems (onboarding, booking, in-app sales, loyalty programs) and internal workflow automation (team reporting, CRM sync, real-time alerts) running natively inside Telegram.</p>
+      <div dir="rtl" align="right">
+        <h4>۰۴. ربات و مینی‌اپ تعاملی تلگرام</h4>
+        <p><small>پیاده‌سازی ابزارهای ارتباط با مشتری (ثبت‌نام، فروش آنلاین، باشگاه مشتریان) و اتوماسیون درون‌سازمانی (گزارش‌گیری، اتصال به CRM و اعلان‌های لحظه‌ای) در قالب ربات‌های هوشمند و مینی‌اپ‌های داخلی تلگرام.</small></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -95,8 +69,11 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/xSOH3ILx/SOH3IL">SOH3IL</a></h4>
-      <p>Modern Persian Jalali Calendar & Exact Solar Recurring Reminder Engine for Android built with Kotlin and Jetpack Compose.</p>
+      <h4>
+        <a href="https://github.com/xSOH3ILx/SOH3IL">SOH3IL</a>
+        <img align="right" src="https://img.shields.io/github/stars/xSOH3ILx/SOH3IL?style=flat-square&color=0969da" alt="Stars" />
+      </h4>
+      <p>Modern Persian Jalali Calendar &amp; Exact Solar Recurring Reminder Engine for Android built with Kotlin and Jetpack Compose.</p>
       <div dir="rtl" align="right">
         <p><small>تقویم جلالی مدرن و موتور پردازش یادآورهای دقیق خورشیدی برای اندروید، پیاده‌سازی‌شده با کاتلین و جت‌پک کامپوز.</small></p>
       </div>
@@ -107,8 +84,11 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/xSOH3ILx/TeleRich-Standalone">TeleRich-Standalone</a></h4>
-      <p>Independent Telegram Rich Messaging Studio & bot engine running serverless on Cloudflare Workers with native Markdown/HTML live rendering.</p>
+      <h4>
+        <a href="https://github.com/xSOH3ILx/TeleRich-Standalone">TeleRich-Standalone</a>
+        <img align="right" src="https://img.shields.io/github/stars/xSOH3ILx/TeleRich-Standalone?style=flat-square&color=0969da" alt="Stars" />
+      </h4>
+      <p>Independent Telegram Rich Messaging Studio &amp; bot engine running serverless on Cloudflare Workers with native Markdown/HTML live rendering.</p>
       <div dir="rtl" align="right">
         <p><small>استودیو و ربات مستقل پیام‌رسانی پیشرفته تلگرام (Rich Messaging) مبتنی بر کلودفلر ورکرز با رندر زنده Markdown و HTML.</small></p>
       </div>
@@ -121,7 +101,10 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4><a href="https://github.com/xSOH3ILx/Gnome-PersianCalendar">Gnome-PersianCalendar</a></h4>
+      <h4>
+        <a href="https://github.com/xSOH3ILx/Gnome-PersianCalendar">Gnome-PersianCalendar</a>
+        <img align="right" src="https://img.shields.io/github/stars/xSOH3ILx/Gnome-PersianCalendar?style=flat-square&color=0969da" alt="Stars" />
+      </h4>
       <p>Persian (Jalali) Solar Calendar integration and indicator for the GNOME Shell desktop environment on Linux.</p>
       <div dir="rtl" align="right">
         <p><small>افزونه و نشانگر تقویم خورشیدی جلالی برای میزکار لینوکس GNOME Shell.</small></p>
@@ -150,17 +133,17 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
     </td>
   </tr>
   <tr>
-    <td align="right" width="28%"><strong>Web & Full-Stack • فرانت‌اند</strong></td>
+    <td align="right" width="28%"><strong>Web &amp; Frontend • وب و فرانت‌اند</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
     </td>
   </tr>
   <tr>
-    <td align="right" width="28%"><strong>Backend & Systems • بک‌اند و سیستم</strong></td>
+    <td align="right" width="28%"><strong>Backend &amp; Systems • بک‌اند و سیستم</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -170,7 +153,7 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
     </td>
   </tr>
   <tr>
-    <td align="right" width="28%"><strong>Databases & ORM • پایگاه‌های داده</strong></td>
+    <td align="right" width="28%"><strong>Databases &amp; ORM • پایگاه‌های داده</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
@@ -179,7 +162,7 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
     </td>
   </tr>
   <tr>
-    <td align="right" width="28%"><strong>Cloud & DevOps • زیرساخت و ابری</strong></td>
+    <td align="right" width="28%"><strong>Cloud &amp; DevOps • زیرساخت و ابری</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -191,24 +174,29 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
 
 ---
 
-### Enterprise & Development Footprint • کارنامه و ردپای فنی پروژه‌ها
+### Enterprise Footprint & NDA Work • کارنامه فنی و پروژه‌های تجاری
+
+> **Client Work & Non-Disclosure Agreements (NDAs):**  
+> A substantial share of my production code and enterprise architecture resides in **private repositories** under strict commercial NDAs. The architectural discipline and clean-code methodology demonstrated in my public repositories reflect the identical standards applied to all confidential engagements.  
+> <br />
+> **پروژه‌های تجاری و تعهدنامه محرمانگی (NDA):** بخش عمده‌ای از کدنویسی پروداکشن و معماری سیستم‌های من در **مخازن خصوصی** تحت قراردادهای عدم افشا (NDA) قرار دارد. انضباط معماری و استاندارد کدهای تمیز در مخازن عمومی، بازتاب‌دهنده کیفیت پیاده‌سازی در تمامی پروژه‌های تجاری من است.
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <h3>۱۹</h3>
-      <p><strong>Active Repositories</strong><br /><small dir="rtl">مجموع مخازن فعال</small></p>
+      <h3>20+</h3>
+      <p><strong>Active Repositories</strong><br /><small dir="rtl">مخازن فعال</small></p>
     </td>
     <td align="center" width="25%">
       <h3>Multi-Stack</h3>
-      <p><strong>Systems Architecture</strong><br /><small dir="rtl">معماری سیستم‌های چندسکویی</small></p>
+      <p><strong>Systems Architecture</strong><br /><small dir="rtl">معماری چندسکویی</small></p>
     </td>
     <td align="center" width="25%">
-      <h3>۹</h3>
+      <h3>10+</h3>
       <p><strong>Enterprise NDA Repos</strong><br /><small dir="rtl">پروژه‌های تجاری و محرمانه</small></p>
     </td>
     <td align="center" width="25%">
-      <h3>۱۰</h3>
+      <h3>10+</h3>
       <p><strong>Open Source Repos</strong><br /><small dir="rtl">پروژه‌ها و ابزارهای متن‌باز</small></p>
     </td>
   </tr>
@@ -219,29 +207,44 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
   <br />
   <table>
     <tr>
-      <td width="30%"><strong>TypeScript &amp; JavaScript</strong></td>
-      <td width="30%"><img src="https://img.shields.io/badge/Ecosystem-Full--Stack-3178C6?style=flat-square" alt="TypeScript" /></td>
-      <td><small dir="rtl">پلتفرم‌های جامع سازمانی، Next.js 16، React 19، PWA و کلودفلر</small></td>
+      <td width="28%"><strong>TypeScript &amp; JavaScript</strong></td>
+      <td width="22%"><img src="https://img.shields.io/badge/Ecosystem-Full--Stack-3178C6?style=flat-square" alt="TypeScript" /></td>
+      <td>
+        <small>Enterprise Web Platforms, Next.js, React, PWA &amp; Serverless Workers</small><br />
+        <small dir="rtl">پلتفرم‌های جامع سازمانی، Next.js، React، PWA و کلودفلر ورکرز</small>
+      </td>
     </tr>
     <tr>
       <td><strong>Python &amp; FastAPI</strong></td>
       <td><img src="https://img.shields.io/badge/Ecosystem-Microservices-3776AB?style=flat-square" alt="Python" /></td>
-      <td><small dir="rtl">معماری میکروسرویس‌ها، موتورهای محاسباتی و APIهای پرسرعت</small></td>
+      <td>
+        <small>Microservices Architecture, Analytical Engines &amp; High-Speed APIs</small><br />
+        <small dir="rtl">معماری میکروسرویس‌ها، موتورهای محاسباتی و APIهای پرسرعت</small>
+      </td>
     </tr>
     <tr>
       <td><strong>Go (Golang) &amp; Rust</strong></td>
       <td><img src="https://img.shields.io/badge/Ecosystem-High--Performance-00ADD8?style=flat-square" alt="Go and Rust" /></td>
-      <td><small dir="rtl">سیستم‌های عملکرد بالا، پردازش تراکنش‌ها و تحلیل میکرواستراکچر مالی</small></td>
+      <td>
+        <small>Low-Latency Systems, Transaction Processing &amp; Market Microstructure</small><br />
+        <small dir="rtl">سیستم‌های عملکرد بالا، پردازش تراکنش‌ها و تحلیل میکرواستراکچر مالی</small>
+      </td>
     </tr>
     <tr>
       <td><strong>Kotlin &amp; Android</strong></td>
       <td><img src="https://img.shields.io/badge/Ecosystem-Native_Mobile-7F52FF?style=flat-square" alt="Kotlin" /></td>
-      <td><small dir="rtl">اپلیکیشن‌های نیتیو اندروید، جت‌پک کامپوز و سیستم‌های یادآور خورشیدی</small></td>
+      <td>
+        <small>Native Android Apps, Jetpack Compose &amp; Exact Solar Scheduling Engines</small><br />
+        <small dir="rtl">اپلیکیشن‌های نیتیو اندروید، جت‌پک کامپوز و سیستم‌های یادآور خورشیدی</small>
+      </td>
     </tr>
     <tr>
       <td><strong>SQL &amp; PostgreSQL</strong></td>
       <td><img src="https://img.shields.io/badge/Ecosystem-Relational_Data-336791?style=flat-square" alt="SQL" /></td>
-      <td><small dir="rtl">مدل‌سازی رابطه‌ای دیتابیس، مایگریشن‌ها و کوئری‌های بهینه با Prisma</small></td>
+      <td>
+        <small>Relational Data Modeling, Schema Migrations &amp; Optimized Prisma Queries</small><br />
+        <small dir="rtl">مدل‌سازی رابطه‌ای دیتابیس، مایگریشن‌ها و کوئری‌های بهینه با Prisma</small>
+      </td>
     </tr>
   </table>
 </details>
@@ -261,5 +264,5 @@ Whether you need customer-facing tools (onboarding, booking, in-app sales, and l
 ---
 
 <div align="center">
-  <sub>Designed with precision & craftsmanship • طراحی‌شده با ظرافت و دقت مهندسی • © 2026 Soheil Vatandoust</sub>
+  <sub>Designed with precision &amp; craftsmanship • طراحی‌شده با ظرافت و دقت مهندسی • © 2026 Soheil Vatandoust</sub>
 </div>
