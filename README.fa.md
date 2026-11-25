@@ -72,14 +72,6 @@
 </p>
 <p>افزونه تقویم هجری شمسی برای میزکار GNOME Shell نسخه‌های ۴۶ تا ۵۰ با پنجره تنظیمات GTK4/Libadwaita، اتصال به Google Calendar و تست‌های خودکار GJS روی D-Bus.</p>
 
-<h4><a href="https://github.com/xSOH3ILx/paQQet">paQQet</a></h4>
-<p dir="ltr" align="right">
-  <img src="https://img.shields.io/badge/Linux_/_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Networking-KCP_%2F_Raw_Packet-334155?style=flat-square" alt="KCP Raw Packet" />
-  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white" alt="HAProxy" />
-</p>
-<p>ابزار مدیریت تانل‌های چندمسیره مبتنی بر پاکت خام (<code>paqet</code> و پروتکل KCP) روی لینوکس با زنجیره‌های فایروال پایدار، بهینه‌سازی BBR و کرنل، واچ‌داگ ترافیک و HAProxy.</p>
-
 </div>
 
 ---

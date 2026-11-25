@@ -64,14 +64,6 @@ Serverless Telegram rich-messaging studio and bot engine deployed on Cloudflare 
 </p>
 Persian (Jalali) solar calendar extension for GNOME Shell 46–50 with GTK4/Libadwaita preferences, GNOME Online Accounts / Google Calendar integration, and automated GJS D-Bus tests.
 
-#### [paQQet](https://github.com/xSOH3ILx/paQQet)
-<p>
-  <img src="https://img.shields.io/badge/Linux_/_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Networking-KCP_%2F_Raw_Packet-334155?style=flat-square" alt="KCP Raw Packet" />
-  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white" alt="HAProxy" />
-</p>
-Multi-exit raw-packet tunnel orchestrator (<code>paqet</code> / KCP) for Linux with persistent firewall chains, kernel BBR/sysctl tuning, traffic-delta watchdog, and HAProxy load balancing.
-
 ---
 
 ### Commercial &amp; NDA Engineering Scope
